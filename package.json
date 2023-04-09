@@ -1,0 +1,20 @@
+{
+  "name": "video_calling",
+  "version": "1.0.0",
+  "description": "WebRTC Signalling Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc",
+    "nodejs",
+    "socket.io",
+    "signalling"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "socket.io": "^4.6.1"
+  }
+}
